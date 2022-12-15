@@ -1,0 +1,4 @@
+name = "ChemicalEquilibrium"
+uuid = "c73daa1d-2164-49f1-bdc3-1ba142d7b6fc"
+authors = ["Maltsev Maxim <daerus21@yandex.ru>"]
+version = "0.1.0"
